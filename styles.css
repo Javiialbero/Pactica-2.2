@@ -1,0 +1,38 @@
+div.header{
+    background-color: lightskyblue;
+    text-align: center;
+    height: 50px;
+    
+    
+}
+hr.hr{
+    width: 60%;
+}
+img.imagen{
+    opacity: 1;
+    width: 23%;
+    
+}
+img.imagen:hover{
+    opacity: 0.5;
+}
+hr.linea{
+    border: solid blue 10px;
+}
+span.span:hover{
+    opacity: 0.5;
+    background-color: lightblue;
+    font-weight: bold;
+}
+p.titulo{
+    text-align: center;
+}
+p.texto{
+    background-image: url(img/valencia_antigua.jpg);
+color: blue;
+margin-right: 20%;
+}
+div.imagen2{
+    background-color: lightskyblue;
+    text-align: center;
+}
